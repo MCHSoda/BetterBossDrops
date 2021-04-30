@@ -1,3 +1,1 @@
-"# BetterBossDrops" 
-"# BetterBossDrops" 
-"# BetterBossDrops" 
+BetterBossDrops is a minecraft 1.15 mod that allows for vannilla and new bosses to drop diiferent items and souls which you can craft into new gear. I am planning to make drops for other mods in the future.
